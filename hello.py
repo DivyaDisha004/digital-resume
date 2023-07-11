@@ -20,7 +20,6 @@ Computer Science Engineer.
 """
 EMAIL = "divyadisha004@gmail.com"
 SOCIAL_MEDIA = {
-    "Instagram": "https://www.instagram.com/_divyadisha_/",
     "LinkedIn": "https://www.linkedin.com/in/divya-disha-ba30981b8/",
     "GitHub": "https://github.com/DivyaDisha004",
     "Leetcode": "https://leetcode.com/divyadisha/",
@@ -28,8 +27,8 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 FitMatch:Fashion Recommendation System": "https://github.com/DivyaDisha004/FitMatch_fashion_recommender",
     "🏆 Sign Language Prediction": "https://github.com/DivyaDisha004/Sign-Language-Synthesis",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+    "🏆 Trade Analysis using Python and ML ": "https://github.com/DivyaDisha004/tradeanalysis",
+   
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
@@ -83,6 +82,7 @@ st.write('\n')
 st.subheader("Achievements")
 st.write(
     """
+- ✔️Qualified for Google Girl Hackathon 2023 Round 2.
 - ✔️Qualified for Google Step Internship 2022 Finalist.
 - ✔️Google Cloud Program Member & Conducted two sessions as Google DSC coordinator.
 - ✔️Qualified for TalentSprint WE by Google, offered 50% Scholarship
@@ -157,9 +157,9 @@ st.write("🚧", "**Data Science Intern | Twilearn**")
 st.write("05/2023 - 06/2023")
 st.write(
     """
-- ► Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traﬃc
-- ► Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
-- ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
+- ► Worked on different python libraries like numpy,pandas , seaborn .
+- ► Analyzed different datasets fron kaggle .
+- ► Worked on data visualisation tools like Tableau , PowerBI .
 """
 )
 
